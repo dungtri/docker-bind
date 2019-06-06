@@ -1,4 +1,5 @@
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-bind.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-bind) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/bind/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/bind)
+[![Build Status](https://drone.dungtri.be/api/badges/dungtri/docker-bind/status.svg)](https://drone.dungtri.be/dungtri/docker-bind)
 
 # sameersbn/bind:9.11.3-20190315
 
